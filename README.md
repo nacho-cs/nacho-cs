@@ -1,5 +1,3 @@
-# nacho-cs
-
 ## my best stuff
 
 - ### [src-lb-viewer](https://github.com/nacho-cs/src-lb-viewer): A way to view src leaderboards.
