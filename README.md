@@ -2,7 +2,7 @@
 
 - ### [src-lb-viewer](https://github.com/nacho-cs/src-lb-viewer): A way to view src leaderboards.
 - ### [MCSR ranked stats browser](https://github.com/nacho-cs/nacho-cs.github.io): A way to view stats for MCSR ranked.
-- ### [marknotes](https://github.com/nacho-cs/marknotes): A way to take and share notes with markdown.
+- ### [markednotes](https://github.com/nacho-cs/markednotes): A way to take and share notes with markdown.
 
 ## About me
 
