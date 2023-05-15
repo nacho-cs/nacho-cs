@@ -4,7 +4,8 @@
 - ### [MCSR ranked stats browser](https://github.com/nacho-cs/nacho-cs.github.io): A way to view stats for MCSR ranked.
 - ### [marked-notes](https://github.com/nacho-cs/marked-notes): A way to take and share notes with markdown.
 
-## About me
+## about me
 
-- im a student lol
-- my stuff is pretty bad but hopefully you can still find some enjoyment from what i make ^^ :)
+- I am 15 (my birthday: may 6th 2008)
+- I currently know JS and have been learning for about 6 months now
+- I am currently best with frontend development but I am learning some back end to
